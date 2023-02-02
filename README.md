@@ -5,7 +5,7 @@ Auto train models by YOLOV5
 
 ## Why use this?
   
-  Most problems we meet in our daily life is the simple image classify problem.Although it's easy to train, we still spend a lot of time in dataset searching, model training and so on.To help us quickly establish the dataset and train our dataset, I write this notebook.The user who want to train their own image classify model can use this notebook to make the train effient.
+  Most problems we meet in our daily life is the simple image classify problem.Although it's easy to train, we still spend a lot of time in dataset searching, model training and so on.To help us quickly establish the dataset and train our dataset, I write this notebook.The user who want to train their own image classify model can use this notebook to make the train effiently.
  
 ## How to use?
   It's extremely simple to use this.User only need to modify the **search_terms**.
