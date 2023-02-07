@@ -3,6 +3,9 @@
 Auto generate dataset 
 Auto train models by YOLOV5
 
+## Colab website
+https://colab.research.google.com/github/ZYM66/AutoTrain_ImageClassify_model_ByYOLOv5/blob/master/Yolov5.ipynb
+
 ## Why use this?
   
   Most problems we meet in our daily life is the simple image classify problem.Although it's easy to train, we still spend a lot of time in dataset searching, model training and so on.To help us quickly establish the dataset and train our dataset, I write this notebook.The user who want to train their own image classify model can use this notebook to make the train effiently.
