@@ -17,5 +17,8 @@ https://colab.research.google.com/github/ZYM66/AutoTrain_ImageClassify_model_ByY
   
   We just write down in the search_terms and the notebook will auto establish the dataset from the image search API.
   Then we use YOLO command line to train this model.
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ZYM66/AutoTrain_ImageClassify_model_ByYOLOv5&type=Date)](https://star-history.com/#ZYM66/AutoTrain_ImageClassify_model_ByYOLOv5&Date)
 ## LICENSE
 MIT
