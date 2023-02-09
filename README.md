@@ -17,3 +17,5 @@ https://colab.research.google.com/github/ZYM66/AutoTrain_ImageClassify_model_ByY
   
   We just write down in the search_terms and the notebook will auto establish the dataset from the image search API.
   Then we use YOLO command line to train this model.
+## LICENSE
+MIT
