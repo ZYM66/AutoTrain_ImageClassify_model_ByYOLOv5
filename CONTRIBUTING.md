@@ -1,0 +1,3 @@
+- If someone has better idea for promting this script.
+- Please pull requests 
+- I will check your code and then merging it.
